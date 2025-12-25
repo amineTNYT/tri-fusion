@@ -838,7 +838,7 @@ async function mergeSortAnimation() {
 
     resetStats();
     stepsDiv.innerHTML = "<strong>Tableau initial non trié</strong><br>Début de la division récursive...";
-    await sleep(baseDelay * 3);
+    await sleep(baseDelay);
 
     await mergeSort(0, arr.length - 1, 0);
 
