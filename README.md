@@ -1,6 +1,6 @@
 
 # 🌀 Tri-fusion (Merge Sort) 🚀
-
+**⚠️ Attention : Cet algorithme n'est PAS au programme des élèves(2eme-3eme-4eme) ⚠️**
 **🟢 Le tri par fusion** est un algorithme ultra-efficace basé sur le principe **« diviser pour régner »**.  
 **✂️ Il divise** récursivement le tableau en deux jusqu’à obtenir des morceaux d’un seul élément (déjà triés !).  
 **🔗 Ensuite, il fusionne** intelligemment ces sous-tableaux en comparant les éléments un par un.  
