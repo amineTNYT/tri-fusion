@@ -1,9 +1,10 @@
-# tri-fusion (Merge Sort) 
 
-Le ***tri par fusion***  est un algorithme de tri efficace basé sur le principe « diviser pour régner ».
-Il consiste à diviser récursivement le tableau en deux moitiés jusqu'à obtenir des sous-tableaux d'un seul élément (qui sont triviaux à trier).
-Ensuite, on fusionne ces sous-tableaux triés deux à deux en comparant les éléments et en les réassemblant dans l'ordre croissant.
-Cet algorithme est stable, avec une complexité temporelle en **O(n log n)** dans tous les cas, ce qui le rend optimal pour de grands ensembles de données.
+# 🌀 Tri-fusion (Merge Sort) 🚀
 
+**🟢 Le tri par fusion** est un algorithme ultra-efficace basé sur le principe **« diviser pour régner »**.  
+**✂️ Il divise** récursivement le tableau en deux jusqu’à obtenir des morceaux d’un seul élément (déjà triés !).  
+**🔗 Ensuite, il fusionne** intelligemment ces sous-tableaux en comparant les éléments un par un.  
+**⚡ La fusion est linéaire** : on prend toujours le plus petit en tête des deux listes.  
+**🏆 Résultat** : tri **stable**, complexité **O(n log n)** dans tous les cas → parfait pour les gros datasets ! 💪
 
 **Télécharger la page :** [tri fusion.html](tri%20fusion.html)
