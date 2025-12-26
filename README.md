@@ -8,4 +8,5 @@
 **🏆 Résultat** : tri **stable**, complexité **O(n log n)** dans tous les cas → parfait pour les gros datasets ! 💪
 
 **Télécharger la page :** [tri fusion.html](tri%20fusion.html)
+
  [code python](https://github.com/amineTNYT/tri-fusion/blob/main/code%20tri%20fusion.py)
